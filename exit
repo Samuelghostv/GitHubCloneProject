@@ -1,0 +1,23 @@
+[33mcommit dff61ced80a0939b600c590a8a5e1efd44850b0b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Samuel Agyekum <agyekumsamuel055@gmail.com>
+Date:   Wed Aug 28 11:00:10 2024 -0700
+
+    Modify README in main branch
+
+[33mcommit 66eaf9b87eb50aff0a79f1e074fe9e5b16360d8a[m[33m ([m[1;32mfeature-greeting[m[33m)[m
+Author: Samuel Agyekum <agyekumsamuel055@gmail.com>
+Date:   Wed Aug 28 10:41:26 2024 -0700
+
+    Add feature description
+
+[33mcommit 697cfa17c1f3bb5874ad7904dd97846a82be7fff[m
+Author: Samuel Agyekum <agyekumsamuel055@gmail.com>
+Date:   Wed Aug 28 03:14:51 2024 -0700
+
+    Resolved merge conflicts
+
+[33mcommit 4f9a51b56644e25047589e875afe25cc478280ff[m
+Author: Samuel Agyekum <agyekumsamuel055@gmail.com>
+Date:   Wed Aug 28 02:51:00 2024 -0700
+
+    Add greetings.txt and README.md
